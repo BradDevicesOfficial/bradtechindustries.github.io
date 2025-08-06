@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://BradDevicesOfficial.github.io/bradtech-industries-website/sitemap.xml
